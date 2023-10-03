@@ -1,0 +1,17 @@
+current directory: /Users/mark-danielstamakloe/Library/CloudStorage/Box-Box/Files/Website/vendor/bundle/ruby/3.0.0/gems/racc-1.7.1/ext/racc/cparse
+/Users/mark-danielstamakloe/.rbenv/versions/3.0.2/bin/ruby -I /Users/mark-danielstamakloe/.rbenv/versions/3.0.2/lib/ruby/3.0.0 -r ./siteconf20231002-51804-nsn02g.rb extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/mark-danielstamakloe/Library/CloudStorage/Box-Box/Files/Website/vendor/bundle/ruby/3.0.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= clean
+
+current directory: /Users/mark-danielstamakloe/Library/CloudStorage/Box-Box/Files/Website/vendor/bundle/ruby/3.0.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\=
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/mark-danielstamakloe/Library/CloudStorage/Box-Box/Files/Website/vendor/bundle/ruby/3.0.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20231002-51804-hpnpgt/racc

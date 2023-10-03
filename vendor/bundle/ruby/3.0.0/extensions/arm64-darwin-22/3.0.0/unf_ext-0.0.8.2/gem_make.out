@@ -1,0 +1,17 @@
+current directory: /Users/mark-danielstamakloe/Library/CloudStorage/Box-Box/Files/Website/vendor/bundle/ruby/3.0.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+/Users/mark-danielstamakloe/.rbenv/versions/3.0.2/bin/ruby -I /Users/mark-danielstamakloe/.rbenv/versions/3.0.2/lib/ruby/3.0.0 -r ./siteconf20231002-51804-jp227q.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/mark-danielstamakloe/Library/CloudStorage/Box-Box/Files/Website/vendor/bundle/ruby/3.0.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= clean
+
+current directory: /Users/mark-danielstamakloe/Library/CloudStorage/Box-Box/Files/Website/vendor/bundle/ruby/3.0.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\=
+compiling unf.cc
+linking shared-object unf_ext.bundle
+ld: warning: ignoring duplicate libraries: '-lc++'
+
+current directory: /Users/mark-danielstamakloe/Library/CloudStorage/Box-Box/Files/Website/vendor/bundle/ruby/3.0.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20231002-51804-xf9fu7
