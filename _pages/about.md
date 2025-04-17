@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "PhD Computational and Data Sciences"
+title: "MSc Computer Science"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
