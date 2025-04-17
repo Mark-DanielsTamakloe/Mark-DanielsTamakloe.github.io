@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Mark-Daniels Tamakloe, currently a second-year PhD student at Washington University in St. Louis, Missouri, working in the CausalAI Lab. My research interests lie at the intersection of artificial intelligence, machine learning, and causal inference. Specifically, I focus on using causal mediation analysis to explore how race impacts treatment outcomes. I am passionate about harnessing cutting-edge AI and ML techniques to address these critical healthcare disparities.
+Hi, I’m Mark-Daniels Tamakloe, a Master’s student in Computer Science at Washington University in St. Louis. My academic interests lie at the intersection of artificial intelligence, machine learning, and causal inference. I focus on using causal mediation analysis to examine how race influences treatment outcomes, with the broader goal of leveraging advanced AI/ML methods to address healthcare disparities and inform equitable policy.
 
-Outside of my research, I enjoy playing soccer (both in real life and FC24) on my PS5. I'm always up for a good game and love the balance it brings to my academic pursuits. I'm excited about the future, where the fusion of technology and causal inference will help reshape healthcare to be more equitable and effective.
+Beyond academics, I enjoy playing soccer and competing in FC25 on my PS5. The game offers a fun balance to my research life. I’m excited about the future, where technology, data, and causal reasoning combine to create more effective and inclusive healthcare solutions.
