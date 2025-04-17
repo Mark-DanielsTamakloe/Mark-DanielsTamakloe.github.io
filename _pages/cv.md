@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD in Computational and Data Sciences, Washington University in St. Louis, 2023-Present
+* Msc in Computer Science, Washington University in St. Louis, 2023-Present
 * MSc in Mathematical Sciences, East Tennessee State University, 2021-2023
 * BSc. in Mathematics with Economics, University of Cape Coast, 2015-2019
 
