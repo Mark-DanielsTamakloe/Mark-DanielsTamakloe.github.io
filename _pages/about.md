@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "MSc Computer Science"
-title: "MSc Mathematical Sciences"
+title: "MSc Computer Science"/
+title: "MSc Mathematical Sciences
 excerpt: "About me"
 author_profile: true
 redirect_from: 
