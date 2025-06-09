@@ -1,13 +1,19 @@
 ---
 permalink: /
-title: "MSc Computer Science"/
-title: "MSc Mathematical Sciences"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+### MSc Computer Science  
+*Washington University in St. Louis (2023 – 2025)*  
+
+### MSc Mathematical Sciences  
+*East Tennessee State University (2021 – 2023)*  
+
 
 I’m Mark-Daniels Tamakloe, a data scientist with a background in computer science, mathematical modeling, and applied data analytics. I hold a Master’s degree in Computer Science from Washington University in St. Louis and a Master’s in Mathematical Sciences from East Tennessee State University. My career is built on applying analytical rigor and data-driven strategies to solve real-world challenges in healthcare, finance, and public policy.
 
