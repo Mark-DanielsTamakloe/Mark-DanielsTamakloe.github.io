@@ -27,6 +27,8 @@ comments:
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
+  portfolio: "https://www.datascienceportfol.io/markdanielstamakloe"
+
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
@@ -96,8 +98,9 @@ author:
   dribbble         :
   flickr           :
   facebook         :
+  portfolio        : "https://www.datascienceportfol.io/markdanielstamakloe"
   foursquare       :
-  github           : "Mark-Daniels1111/My-First-Project"
+  github           : "https://github.com/Mark-Daniels-Tamakloe"
   google_plus      :
   keybase          :
   instagram        :
