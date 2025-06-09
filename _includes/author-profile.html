@@ -3,6 +3,10 @@
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
+{% if author.portfolio %}
+  <li><a href="{{ author.portfolio }}"><i class="fa fa-link"></i> Portfolio</a></li>
+{% endif %}
+
 
 <div itemscope itemtype="http://schema.org/Person">
 
